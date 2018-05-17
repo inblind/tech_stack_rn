@@ -1,3 +1,3 @@
-import data from './LibraryReducer.js';
+import data from './LibraryList.json';
 
 export default () => data;
